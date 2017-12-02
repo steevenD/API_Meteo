@@ -1,6 +1,8 @@
 # API_Meteo
 Utilisation des API Google Maps et Netatmo pour avoir les températures du monde
 
+Attention certaines données de l'API sont éronnées, ne pas s'étonner si la température est un peu trop élevée.
+
 https://www.steeven-demay.fr/LP_MIW/meteo/Netatmo-API-PHP-master/index.php
 
 Attention ce code ne fonctionne pas en local, hébergez-le pour le tester !
